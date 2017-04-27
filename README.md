@@ -1,5 +1,5 @@
 # snake
-Famous game SNAKE
+Famous game SNAKE, Qt 5, C++
 
 One way to create your own Snake, maybe doesn't better way.
 If you have any suggestions to improve it, i will will be glad!
